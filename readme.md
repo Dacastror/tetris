@@ -10,6 +10,6 @@ Basically an html table was used as a board for the game and the necessary logic
 
 ## Play online
 
-You can see the result of the code and play in the following link:
+You can see the result of this code and play in the following link:
 
 [https://dacastror.github.io/tetris/](https://dacastror.github.io/tetris/)
